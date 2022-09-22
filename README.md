@@ -6,7 +6,8 @@
 
 ---
 ##### Basic of Python
-[Tutorial 1](https://youtu.be/DFPbEg6YtNg) - Introduction to Jupyter Notebook
+[Tutorial 1](https://youtu.be/DFPbEg6YtNg) - Introduction to Jupyter Notebook  
+
 [Tutorial 2](https://youtu.be/5r0neBXPzAA) - Data types in python
 [Tutorial 3](https://youtu.be/hJBqanVXO3k) - Operators in python
 [Tutorial 4](https://youtu.be/TxUs4JrbWm0) - IF ELSE ELIF
