@@ -1,7 +1,5 @@
 ## This is repository for YouTube Playlist - Python For Trading
 
-================================================================
-
 [Playlist Link](https://www.youtube.com/playlist?list=PLwKGIk9968e22wlEo2NEg7mRZRcNalDD3) - All upcoming videos are updated here
 
 ---
