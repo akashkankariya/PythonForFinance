@@ -19,3 +19,4 @@
 
 #### Advance Python
 [Tutorial 13](https://youtu.be/BF1uO9YQW78) - Data Collection  
+[TUtorial 14](https://youtu.be/1S6TrRli4Q8) - Signal Generation  
